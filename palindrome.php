@@ -13,7 +13,7 @@ return $sum;
 $input = 1235321;  
 $num = palindrome($input);  
 if($input==$num){  
-echo "$input is a Palindrome number";  
+echo "$input is a Palindrome number"; //display number is palindrome 
 } else {  
 echo "$input is not a Palindrome";  
 }  
